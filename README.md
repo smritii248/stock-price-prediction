@@ -1,4 +1,7 @@
-#Project Overview
+#
+
+
+# Project Overview
 
 This project demonstrates how to predict stock prices using machine learning techniques.
 It includes data collection, visualization, feature engineering, model training, and prediction using historical stock market data.
